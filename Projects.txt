@@ -1,0 +1,29 @@
+﻿1. Hand held printer
+
+microconteroller-STM32F407G DISC1
+Thermal printer module (UART serial communication protocol)
+power supply
+push button
+keypad
+OLED (I2C serial communication protocol)
+
+
+2. Data logger
+
+microcontroller-STM32F407G DISC1
+Temp sensor     (I2C serial communication protocol)
+humidity sensor (I2C serial communication protocol)
+RTC module      (I2C serial communication protocol)
+EEPROM          (I2C serial communication protocol)
+OLED            (I2C serial communication protocol)
+power supply
+
+
+3. Weather station
+
+microconteroller-PIC16F877A
+Temp sensor     (I2C serial communication protocol)
+humidity sensor (I2C serial communication protocol)
+RTC module      (I2C serial communication protocol)
+OLED            (I2C serial communication protocol)
+power supply
